@@ -14,16 +14,14 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
+There's no living room, so no couch here. I do have a guest mattress which might be available when you come to London - UK ( :
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
-
-No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
+Open an issue to check for dates, don't hesitate to hit me on a private message if i space out.
 
 
 ## Have me crash on your couch
 Your next travels where you need a couch go in here, like:
 
-* May 6 – 12 in Berlin
-* June 3 – ? in Munich
+Won't need a couch, but will hit Sao Paulo and Berlin this year, might try NY but i think will be a bit of a stretch.
 
+In case you can help things might get easier, let me know.  
