@@ -19,6 +19,8 @@ There's no living room, so no couch here. I do have a guest mattress which might
 Open an issue to check for dates, don't hesitate to hit me on a private message if in case i don't answer.
 
 
+NOTE: Audio and Music hackers are more than welcome to come and have some jam sessions
+
 ## Have me crash on your couch
 Your next travels where you need a couch go in here, like:
 
