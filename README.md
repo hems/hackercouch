@@ -14,9 +14,9 @@ It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and
 
 
 ## Crash on my couch
-There's no living room, so no couch here. I do have a guest mattress which might be available when you come to London - UK ( :
+There's no living room, so no couch here. I do have a guest mattress which might be available when you come to London - UK
 
-Open an issue to check for dates, don't hesitate to hit me on a private message if i space out.
+Open an issue to check for dates, don't hesitate to hit me on a private message if in case i don't answer.
 
 
 ## Have me crash on your couch
